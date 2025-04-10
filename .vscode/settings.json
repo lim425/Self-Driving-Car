@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/junyi/potbot_ws/build/self_driving_car_pkg",
+        "/home/junyi/potbot_ws/install/self_driving_car_pkg/lib/python3.10/site-packages",
+        "/home/junyi/dev_ws/build/my_cv_package",
+        "/home/junyi/dev_ws/install/my_cv_package/lib/python3.10/site-packages",
+        "/home/junyi/dev_ws/build/ball_tracker",
+        "/home/junyi/dev_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/junyi/potbot_ws/build/self_driving_car_pkg",
+        "/home/junyi/potbot_ws/install/self_driving_car_pkg/lib/python3.10/site-packages",
+        "/home/junyi/dev_ws/build/my_cv_package",
+        "/home/junyi/dev_ws/install/my_cv_package/lib/python3.10/site-packages",
+        "/home/junyi/dev_ws/build/ball_tracker",
+        "/home/junyi/dev_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
