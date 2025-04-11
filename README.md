@@ -43,6 +43,7 @@ ros2 run sdc_venv_pkg vision_node
 
 
 ## Appendix
-![Image Alt]().
+![Image Alt](https://github.com/lim425/Self-Driving-Car/blob/89138da51e1fc7ee532d881456a801417408a525/images/image1.png).
+![Image Alt](https://github.com/lim425/Self-Driving-Car/blob/89138da51e1fc7ee532d881456a801417408a525/images/image2.png).
 
 
